@@ -1,6 +1,6 @@
 # Reinforcement Learning for Multiple-Column Selection
 
-This repository contains the core part of the code for paper: A Reinforcement-Learning-based Multiple-Column Selection Strategy for Column Generation (AAAI2024) \[[arXiv](https://arxiv.org/abs/2312.14213)\].
+This repository contains the core part of the code for paper: A Reinforcement-Learning-based Multiple-Column Selection Strategy for Column Generation (AAAI2024)](https://arxiv.org/abs/2312.14213).
 
 ## Introduction
 
