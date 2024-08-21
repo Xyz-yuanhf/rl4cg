@@ -34,7 +34,7 @@ A small example data is available in the `state/` folder, where each `.pkl` file
 python example.py
 ```
 
-We also provide the implementation of our network model in `model.py`, the environment for solving CSP in `env.py` (which should be properly registered in `gym.env`), and the basic training process in `training.py` (implemented based on [`tianshou`](https://tianshou.readthedocs.io/en/stable/)). You can use them as a reference to generate your own data for the problem you want to solve.
+We also provide the implementation of our network model in `model.py`, the environment for solving CSP in `env.py` (which should be properly registered in `gym.env`), the basic training process in `training.py` (implemented based on [`tianshou`](https://tianshou.readthedocs.io/en/stable/)), and the evaluation data set in `eval.zip` (please unzip it before training). You can use them as a reference to generate your own data for the problem you want to solve.
 
 ## Citation
 
