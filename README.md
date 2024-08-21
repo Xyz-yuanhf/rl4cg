@@ -20,7 +20,7 @@ We propose the first **reinforcement-learning-based (RL) multiple-column selecti
 
 - python 3.10
 - dgl 1.1.1
-- gym 0.26.2
+- gym 0.21.0
 - networkx 2.8.7
 - numpy 1.23.1
 - tianshou 0.4.8
