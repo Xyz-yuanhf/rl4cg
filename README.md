@@ -19,7 +19,7 @@ We propose the first **reinforcement-learning-based (RL) multiple-column selecti
 ## Requirements
 
 - python 3.10
-- dgl 0.9.1
+- dgl 1.1.1
 - gym 0.26.2
 - networkx 2.8.7
 - numpy 1.23.1
